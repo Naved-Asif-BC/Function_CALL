@@ -1,0 +1,10 @@
+pandas
+numpy
+python-dotenv
+PyPDF2
+langchain
+openai
+flask
+requests
+
+
